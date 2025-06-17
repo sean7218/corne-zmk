@@ -14,7 +14,7 @@
             &mt {
                 flavor = "tap-preferred";
             };
-        }
+        };
 
         keymap {
                 compatible = "zmk,keymap";
